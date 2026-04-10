@@ -1,0 +1,6 @@
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+numpy>=1.21.0
+bayesian-optimization>=1.4.0
+matplotlib>=3.4.0
